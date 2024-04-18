@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5434,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "database": "alt_school_db",
+            "username": "alt_school_user",
+            "name": "SQL"
+        }
+    ]
+}
